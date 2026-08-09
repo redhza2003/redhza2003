@@ -1,8 +1,8 @@
-<h1 align="left">Wassup with it ? What the deal ?</h1>
+<h1 align="left">Let's do some Bcode.</h1>
 
 ###
 
-<p align="left">My name is red and Im 22y and Im from KSA & UAE</p>
+<p align="left">Just Red nothing else</p>
 
 ###
 
