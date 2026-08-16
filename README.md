@@ -1,8 +1,6 @@
 <h1 align="left">Let's do some Bcode.</h1>
-###
-<h2 align="left">Languages & Frameworks & Tools</h2>
-###
 
+<h2 align="left">Languages & Frameworks & Tools</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="python logo"  />
   <img width="12" />
